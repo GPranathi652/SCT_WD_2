@@ -1,6 +1,7 @@
 # Stopwatch Project
 
 This is a simple stopwatch web application built using **HTML**, **CSS**, and **JavaScript**. It allows you to start, stop, lap, pause, and reset the timer, measuring hours, minutes, seconds, and milliseconds (centiseconds).
+live demo:https://gpranathi652.github.io/SCT_WD_2/
 
 ## Features
 
@@ -29,6 +30,5 @@ Feel free to fork the repository and submit pull requests for improvements or bu
 ## License
 
 This project is open-source and available under the MIT License.
-live demo:
 
 Created by G.Pranathi
